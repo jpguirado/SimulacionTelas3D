@@ -6,7 +6,7 @@ Práctica para la asignatura de animacion 3D. En esta práctica se implementa un
 [![Simulacion de telas 3D](https://img.youtube.com/vi/zsRLAmJmw5s/0.jpg)](https://www.youtube.com/watch?v=zsRLAmJmw5s "Simulación de telas 3D")
 
 ## Instrucciones de ejecución
-Para abrir el proyecto es necesaria la versión 2017.3.1f1. Una vez abierto el proyecto, cargáis la escena haciendo doble clic en Exercise 1 si no se ha abierto sola. Pulsáis el botón de play y presionáis la tecla p para iniciar la simulación
+Para abrir el proyecto es necesaria la versión 2017.3.1f1 de Unity. Una vez abierto el proyecto, cargáis la escena haciendo doble clic en Exercise 1 si no se ha abierto sola. Pulsáis el botón de play y presionáis la tecla p para iniciar la simulación
 
 ## Ejecución de la simulación y elección de parámetros
 
